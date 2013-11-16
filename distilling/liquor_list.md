@@ -21,7 +21,7 @@ Death's Door Gin | 47 | wisconsin | X
 Hayman's Old Tom | 40
 Tanqueray Malacca | 40 | | X
 Spirit of Hven Backafallsbyn | 40 | oak matured, swedish, organic | X
-Leatherbee Original | 48 | | X
+~~Leatherbee Original~~ | 48 | | X
 Leatherbee Autumnal | 48 | 2013 - lapsang souchong, blade mace, pine smoke | X
 Ridge Distillery Silvertip | 44 | | X
 Barr Hill Gin | 45 | vermont raw honey is added
