@@ -4,13 +4,26 @@ Current list of home bar
 
 ### Gins / Genever
 
-Name | ABV | Notes
---- | --- | ---
-Bols Genever | 35 | heavy malt, brought over from europe, not US bottle
-Boomsma Jonge Genever | 40 | 
-Plymouth Sloe Gin | 26
-Jensen London Bermondsey Gin | 43
-Blackwood's Small Batch | 47.5
+Name | ABV | Notes | In Archive (1oz)
+--- | --- | --- | ---
+Bols Genever | 35 | heavy malt, brought over from europe, not US bottle | X
+Boomsma Jonge Genever | 40 | |
+Boomsma Oude Genever | 40 | aged at least 1 year in barrel |
+Plymouth Sloe Gin | 26 |
+Jensen London Bermondsey Gin | 43 | | X
+Blackwood's Small Batch | 47.5 | | X
+Cricket Club | 43 | london style
+Smooth Ambler Greenbrier | 40 | | X
+Tuthilltown Half Moon Orchard | 46 | apples/wheat
+Prarie Gin | 40 | organic
+Bummers & Lazarus | 46 | san fran | X
+Death's Door Gin | 47 | wisconsin | X
+Hayman's Old Tom | 40
+Tanqueray Malacca | 40 | | X
+Spirit of Hven Backafallsbyn | 40 | oak matured, swedish, organic | X
+Leatherbee Original | 48 | | X
+Leatherbee Autumnal | 48 | 2013 - lapsang souchong, blade mace, pine smoke | X
+Ridge Distillery Silvertip | 44 | | X
 
 ### Whiskey - Bourbon
 
@@ -26,6 +39,9 @@ Northern Latitudes Deer Camp | 43 | 3 year, bottle locally but from south
 Michter's | 45.7 |
 Bookers 7 year 4 month | 64.55
 Makers Mark | | personal dip from visit
+New Holland Beer Barrel | 40
+Hudson Baby Bourbon | 46 | under 4 years
+Hudson Four Grain Bourbon | 46 | under 4 years
 
 ### Whiskey - Rye
 
@@ -66,16 +82,19 @@ Journeyman W.R. Welter | 45 | organic, not aged
 Wisers 18 year | 40 | blended canadian
 Rogue Dead Guy | 40 | 1 month aged
 Death's Door White Whiskey | 40 | wheat
+MBR Black Dog | 45 | smoked corn white whiskey - tobacco barn fired
+Jack Daniels | 40
 
 ### Bitters / Apertifs
 
 Name | Notes
 --- | ---
+Amaro Montenegro | 23
 Herbsaint | traditional for sazerac vs absinthe
 Campari |
 Green Chartreuse 
 
-### Eau De Vie / Brandy
+### Eau De Vie / Brandy / Liqueur
 
 Name | ABV | Notes
 --- | --- | ---
@@ -84,11 +103,18 @@ Uncle Johns Apple Brandy | 45 | barrel aged
 Clear Creek Pear Liqueur | 23.1
 Clear Creek Douglas Fir | 47.73 | pure forest
 Clear Creek Cassis Liqueur | 19.32
+Clear Creek Slivovitz Blue Plum Brandy | 40
+Clear Creek Pomme 8 year | 40
+Clear Creek Oregon Brandy | 42.5 | oregon wine base
+Bitter Truth Apricot | 22
 Blume Marillen Apricot | 40 | eau-de-vie not liqueur
 Solerno Blood Orange Liqueur | 40 |
 Good Neighbor Ciderye | 15 | hard cider aged in rye barrels
 Blackstar Farms Spirit of Apricot | 40 
 Rothman & Winter Orchard Peach | 24
+Jules Theuriet Creme de Framboise | 18
+Mette Framboise | 45
+Cherry Heering | 24
 
 ### Mezcal
 
@@ -107,6 +133,7 @@ Art in the Age Root | root beer spices
 Art in the Age Sage | sage
 Kelt VSOP Cognac
 Prickly Pear Vodka | 35 | flagstaff AZ
+Cachaca 51 | 40 | brazil
 
 ### Mixers / ETC
 
@@ -116,6 +143,8 @@ Benedictine |
 Creme de Violette | rothman & winter brand
 St Germain | Elderflower
 Luxardo Maraschino 
+Kahlua Especial
+Kahlua
 Xtabentun | anis mayan liqueur from mexico
 Tuaca |
 Bacardi 151 |
