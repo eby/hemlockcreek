@@ -2,13 +2,17 @@
 
 Current list of home bar
 
-## Gins / Genever
+### Gins / Genever
 
 Name | ABV | Notes
 --- | --- | ---
 Bols Genever | 35 | heavy malt, brought over from europe, not US bottle
+Boomsma Jonge Genever | 40 | 
+Plymouth Sloe Gin | 26
+Jensen London Bermondsey Gin | 43
+Blackwood's Small Batch | 47.5
 
-## Whiskey - Bourbon
+### Whiskey - Bourbon
 
 Name | ABV | Notes
 --- | --- | ---
@@ -21,15 +25,18 @@ Buffalo Trace Experimental: Oats | 45 | 9 yr 5 mo, 2011 bottling
 Northern Latitudes Deer Camp | 43 | 3 year, bottle locally but from south
 Michter's | 45.7 |
 Bookers 7 year 4 month | 64.55
+Makers Mark | | personal dip from visit
 
-## Whiskey - Rye
+### Whiskey - Rye
 
 Name | ABV | Notes
 --- | --- | ---
+Sazerac 18 year | 45 | Fall 2011 bottling
+Thomas H Handy Sazerac | 63.45 | barrel limited release
 Catoctin Creek Roundstone Rye | 40 | organic single barrel, under 2 years
 Templeton Rye | 40
 
-## Whiskey - Irish
+### Whiskey - Irish
 
 Name | ABV | Notes
 --- | --- | ---
@@ -37,7 +44,7 @@ Redbreast 12 year | 40 | single pot still
 Redbreast 15 year | 46 | single pot still
 Jameson 12 year | 40 |
 
-## Whiskey - Scotch
+### Whiskey - Scotch
 
 Name | ABV | Notes
 --- | --- | ---
@@ -47,27 +54,71 @@ Macallan 15 year | 43 |
 Balvenie Doublewood 12 year | 43 |
 Balvenie Caribbean Cask 14 year | 43 | rum cask finish
 
-## Whiskey - Other
+### Whiskey - Other
 
 Name | ABV | Notes
 --- | --- | ---
 Buffalo Trace White Dog | 62.5 | Mash 1
+Buffalo Trace White Dog | 62.5 | Rye Mash
+New Holland Brewers' Whiskey | 45 | 6 months
 Dryfly Washington Wheat | 40 | 
+Journeyman W.R. Welter | 45 | organic, not aged
 Wisers 18 year | 40 | blended canadian
+Rogue Dead Guy | 40 | 1 month aged
+Death's Door White Whiskey | 40 | wheat
 
-## Bitters / Apertifs
+### Bitters / Apertifs
 
 Name | Notes
 --- | ---
 Herbsaint | traditional for sazerac vs absinthe
+Campari |
+Green Chartreuse 
 
-## Eau De Vie / Brandy
+### Eau De Vie / Brandy
 
-## Mixers / ETC
+Name | ABV | Notes
+--- | --- | ---
+Uncle Johns Apple Vodka | 43 | 
+Uncle Johns Apple Brandy | 45 | barrel aged
+Clear Creek Pear Liqueur | 23.1
+Clear Creek Douglas Fir | 47.73 | pure forest
+Clear Creek Cassis Liqueur | 19.32
+Blume Marillen Apricot | 40 | eau-de-vie not liqueur
+Solerno Blood Orange Liqueur | 40 |
+Good Neighbor Ciderye | 15 | hard cider aged in rye barrels
+Blackstar Farms Spirit of Apricot | 40 
+Rothman & Winter Orchard Peach | 24
+
+### Mezcal
+
+Name | ABV | Notes
+--- | --- | ---
+Del Maguey San Luis del Rio | 47 | single village
+Del Maguey Chichicapa | 46 | single village
+
+### Misc
+
+Name | Notes
+--- | ---
+Art in the Age Snap | ginger snap
+Art in the Age Rhuby | rhubarb
+Art in the Age Root | root beer spices
+Art in the Age Sage | sage
+Kelt VSOP Cognac
+Prickly Pear Vodka | 35 | flagstaff AZ
+
+### Mixers / ETC
 
 Name | Notes
 --- | ---
 Benedictine |
+Creme de Violette | rothman & winter brand
 St Germain | Elderflower
+Luxardo Maraschino 
+Xtabentun | anis mayan liqueur from mexico
 Tuaca |
 Bacardi 151 |
+Thatcher Apple Ginger Spice | organic
+Peppermint Schnapps
+Velvet Falernum
