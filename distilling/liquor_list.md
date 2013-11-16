@@ -24,6 +24,8 @@ Spirit of Hven Backafallsbyn | 40 | oak matured, swedish, organic | X
 Leatherbee Original | 48 | | X
 Leatherbee Autumnal | 48 | 2013 - lapsang souchong, blade mace, pine smoke | X
 Ridge Distillery Silvertip | 44 | | X
+Barr Hill Gin | 45 | vermont raw honey is added
+Roundhouse Gin | 47 | has anise which overpowers
 
 ### Whiskey - Bourbon
 
@@ -34,6 +36,7 @@ Noah's Mill | 57.15 | no age statement
 Van Winkle 12 year | 45.2 |
 Pappy Van Winkle 15 year | 53.5 |
 Stagg Jr | 67.2 | 2013 edition
+Blanton's | 46.5 | 2006
 Buffalo Trace Experimental: Oats | 45 | 9 yr 5 mo, 2011 bottling
 Northern Latitudes Deer Camp | 43 | 3 year, bottle locally but from south
 Michter's | 45.7 |
@@ -48,6 +51,7 @@ Hudson Four Grain Bourbon | 46 | under 4 years
 Name | ABV | Notes
 --- | --- | ---
 Sazerac 18 year | 45 | Fall 2011 bottling
+Sazerac | 45
 Thomas H Handy Sazerac | 63.45 | barrel limited release
 Catoctin Creek Roundstone Rye | 40 | organic single barrel, under 2 years
 Templeton Rye | 40
@@ -77,6 +81,7 @@ Name | ABV | Notes
 Buffalo Trace White Dog | 62.5 | Mash 1
 Buffalo Trace White Dog | 62.5 | Rye Mash
 New Holland Brewers' Whiskey | 45 | 6 months
+New Holland Zeppelin Blen | 45
 Dryfly Washington Wheat | 40 | 
 Journeyman W.R. Welter | 45 | organic, not aged
 Wisers 18 year | 40 | blended canadian
@@ -90,9 +95,11 @@ Jack Daniels | 40
 Name | Notes
 --- | ---
 Amaro Montenegro | 23
+Fernet-Branca | 39
+Gran Classico |
 Herbsaint | traditional for sazerac vs absinthe
 Campari |
-Green Chartreuse 
+Green Chartreuse |
 
 ### Eau De Vie / Brandy / Liqueur
 
@@ -131,7 +138,7 @@ Art in the Age Snap | ginger snap
 Art in the Age Rhuby | rhubarb
 Art in the Age Root | root beer spices
 Art in the Age Sage | sage
-Kelt VSOP Cognac
+Kelt VSOP Cognac |
 Prickly Pear Vodka | 35 | flagstaff AZ
 Cachaca 51 | 40 | brazil
 
@@ -142,12 +149,12 @@ Name | Notes
 Benedictine |
 Creme de Violette | rothman & winter brand
 St Germain | Elderflower
-Luxardo Maraschino 
-Kahlua Especial
-Kahlua
+Luxardo Maraschino |
+Kahlua Especial |
+Kahlua |
 Xtabentun | anis mayan liqueur from mexico
 Tuaca |
 Bacardi 151 |
 Thatcher Apple Ginger Spice | organic
-Peppermint Schnapps
-Velvet Falernum
+Peppermint Schnapps |
+Velvet Falernum | tiki drinks, etc
