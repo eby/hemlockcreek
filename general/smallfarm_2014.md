@@ -23,3 +23,35 @@
 * pulled with 14' spade
 
 ---
+
+### Post Harvest Handling
+* fresh produce is alive
+* as soon as cut plant begins to deteriorates
+* higher temp = quicker deterioration
+* every increase by 18F = 2-3x decay
+* respiration rate determines cooling need
+* pick colder part of day. Move to cooler often
+* seen and not heard. If you hear produce hitting harvest bins prob bruised
+* out of field quick and in cooler quick
+* pick it clean and keep it clean
+* living mulch can help keep mud down in rows and keep cool. Kale with alfalfa or rye
+* produce should be clean at market. No excuses and doesn't mean washing. 
+* potable water at harvest in all cases. Think ahead and plan. Water infiltrated. 
+* spray wash don't immerse dirty produce for washing
+* water temp. If > 10 deg cooler than larger intake of water/pathogen. Do first wash at near temp. More depth also increases. 
+* tsunami and sanidate are both no rinse and no pH control. But not killing agent for all so don't reuse as irrigation. Chico wash is reusable water but pH controlled. 
+* spray wash can be hose with nozzle
+* visual look at farm for risks on setup
+* wash. Rinse. Sanitize. Record
+* keep labeled or colored brushes and cleaning equip to keep seperate
+* check on chill sensitive produce. Temp is final temp so fine to be in cold cooler if take out before
+* cool to core. Many will check temp and reject
+* coolbot for air conditioning conversion
+* cover boxes with plastic to form tunnel and use fan to pull air through
+* cool and ship
+* some can be cooled by ice
+* storage - humidity and ethylene
+* ethylenecontrol.com and peakfresh
+* roof, potable, toilet, sanitize, safe food contact 
+* design shed dirty to clean linear and not crossed paths. 
+* start with what you can and improve
