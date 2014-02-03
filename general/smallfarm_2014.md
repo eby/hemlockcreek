@@ -1,7 +1,10 @@
 # Small Farm Conference 2014
 
+* NMSFC14 on twitter
+
 ### Using Technology for Production & Conservation
 
+* http://coveyouscenicfarm.com/
 * 140 year old farm
 * 330 acre - 20 acres in production
 * greenhouses and hoop houses
@@ -17,10 +20,23 @@
 * $6/day conventional cooler. $1/day geothermal
 * water storage tank for heat storage and irrigation for greenhouse. roof rainoff goes into it. 12k gal
 * in reverse can do 120F fluid
-* VFD (variable frequency drives) on pumps change power based on load
+* VFD (variable frequency drives) on pumps change power based on load. money savings
 * went solar and tied in for net metering
 * 24' tunnels. high gothic. rail movable. never have had to shovel. all bolts no tek screws
 * pulled with 14' spade
+
+---
+
+### Keynote
+
+* small farms are (the only) real farms
+* http://www.johnikerd.com/johnikerd.com/Home.html
+* Food system revolution is happening. Currently peaceful. May remain peaceful may not depending on how bad system gets
+* Can’t predict the future but you can often tell when you are approaching the top/fall.
+* Farms will become smaller as nature and society demands it
+* Sustainability will take a different world view
+* Organics subverted by standardization and drive for profit
+* Specialization and standardization is end of sustainability.
 
 ---
 
@@ -55,3 +71,24 @@
 * roof, potable, toilet, sanitize, safe food contact 
 * design shed dirty to clean linear and not crossed paths. 
 * start with what you can and improve
+* http://atinadiffley.com/food-safety-and-post-harvest-handling/
+* http://atinadiffley.com/wp-content/uploads/StorageVegetablesPg1-SS.pdf
+* http://atinadiffley.com/wp-content/uploads/StorageVegetablesPg2-SS.pdf
+* http://postharvest.ucdavis.edu/files/109107.pdf
+
+---
+
+### Food Forestry
+
+(had work issue so missed some of presentation)
+* http://rootstofruits.biz/
+* Whole system design. Ecologically based
+* Stories/Levels - tall, medium, shrub, cover
+* Flowering calendar - ensure food for beneficials all season
+* Lots of options out there for edible varieties. Think uncommon and multiple uses.
+* Easy for homestead sizing. Farm size needs plenty of planning.
+* Observe and adapt. No one right way.
+* Silvopasture - next step. integrating animals
+* wood chip mulch builds soil. innoculate w/ fungus to increase use
+* http://thefruitnut.com/
+* http://apiosinstitute.org/
