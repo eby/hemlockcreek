@@ -1,5 +1,6 @@
 # Small Farm Conference 2014
 
+* http://smallfarmconference.com/
 * NMSFC14 on twitter
 
 ### Using Technology for Production & Conservation
@@ -29,6 +30,7 @@
 
 ### Keynote
 
+* text of talk: http://mismallfarmconf.files.wordpress.com/2014/02/john-ikerd-small-farms-are-real-farms.pdf
 * small farms are (the only) real farms
 * http://www.johnikerd.com/johnikerd.com/Home.html
 * Food system revolution is happening. Currently peaceful. May remain peaceful may not depending on how bad system gets
