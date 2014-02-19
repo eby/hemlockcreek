@@ -28,7 +28,7 @@ Feb 18-29 2014 Okemos, MI
 * disease triangle: pathogen - host - environment. time also a factor.
 * know disease cycle for control options. many can survive for years dormant
 * scout scout scout
-* msu diagnostic services available. send quality sample
+* msu diagnostic services available. send quality sample (pestid.msu.edu)
 * management: monitoring, protection (controls), pathogen eradication, genetic resistance, avoidance, exclusion
 
 ## Managing interactions of insects and other pests
@@ -53,3 +53,57 @@ Feb 18-29 2014 Okemos, MI
 * limit sprays during bloom
 * check toxicity to bees (LD50)
 * pesticide label change to include info on pollinator and restrictions
+* integrated crop pollination MSU project at projecticp.org
+
+## Weed Management
+
+* yield loss
+* pest habitat (mice, etc)
+* >60% of pesticides is herbicides
+* prevention better than treatment
+* one year of seed can be years and years of weeding
+* mechanical weeders - can help but can also mix up seed bank. cultivation can be comparable to burn down herbicides but not pre-emergent
+* seed predation - polyculture (red clover, etc) can help
+* organic herbicides - citric acid, etc. Expensive and not very effective
+* prevention is critical
+
+## Intro to Pesticides
+
+* everything is a poison. just dosage
+* classes of insecticides has increased over last 10 years
+* different modes of activity (repel vs lethal vs mating disruption, etc)
+* once you know mode of activity and what it works on you can time the applications correctly to match life cycle
+* data available for rotations to prevent resistance buildup
+
+## Fungicides
+
+* early days was copper (downy mildew), etc
+* protectant vs systemic
+* resistance is rare but can happen
+* biocontrol available. parasitic soil fungi
+* specific systemics tend to be less toxic and more effective
+* fungicides can be washed off by rain and many are UV sensitive
+* protectants - sunny / dry. want quick dry
+* systemic - cloudy, moist soil, hydrated plant
+* cdms.net for safety sheets
+
+## MSU Resources
+
+* enviroweather.msu.edu
+* extension
+
+## Invasive Impacts
+
+* decrease biodiversity, threaten natives. second leading cause of animal population decline
+* 50k invasives
+* 99% of all crops/livestock are intentional introductions
+* during last 60 years introduction as doubled
+* short generation time means often spraying and moving away from IPM
+
+## round table
+
+* cover crops great for nematode and other control. stopped spraying for nematode and decreased fertilizer use. oilseed radish
+* saves money
+* scout
+* rotations
+* diversity can make it difficult
